@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicTacToe_MichelDepcik()
+comment1.params=
+comment1.target=void\ Spielestandasugeben()
+comment2.params=
+comment2.target=void\ spielfeldAusgeben()
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=feldnr
+comment4.target=void\ naechsterZug(int)
+comment5.params=feldnr
+comment5.target=void\ naechsterZugGegenKIVielZuLeicht(int)
+comment6.params=
+comment6.target=void\ \u00FCberpr\u00FCfenObGewonnen()
+comment7.params=feldnr
+comment7.target=void\ naechsterZugGegenKISchwerer(int)
+numComments=8
